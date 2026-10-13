@@ -1,0 +1,456 @@
+Project Name,County,Status,Capacity (MW),Generation Type,Developer
+ReEnergy Livermore Falls (GEN1),Androscoggin,Operational,39.6,Biomass,ReEnergy Livermore Falls
+Walden Solar Maine V (LEEDS),Androscoggin,Operational,20,Solar,Walden Solar Maine V LLC
+Turner Meadow Solar Station (TRNR),Androscoggin,Planned,19.8,Solar,"Turner Meadow Solar Station, LLC"
+Charles E Monty (M-1),Androscoggin,Operational,14.2,Hydro,Brookfield White Pine Hydro LLC
+Charles E Monty (M2),Androscoggin,Operational,14.2,Hydro,Brookfield White Pine Hydro LLC
+Worumbo Hydro Station (GEN1),Androscoggin,Operational,9.7,Hydro,"Eagle Creek Renewable Energy, LLC"
+Worumbo Hydro Station (GEN2),Androscoggin,Operational,9.7,Hydro,"Eagle Creek Renewable Energy, LLC"
+Gulf Island (GI1),Androscoggin,Operational,6.4,Hydro,Brookfield White Pine Hydro LLC
+Gulf Island (GI2),Androscoggin,Operational,6.4,Hydro,Brookfield White Pine Hydro LLC
+Gulf Island (GI3),Androscoggin,Operational,6.4,Hydro,Brookfield White Pine Hydro LLC
+MMWAC Resource Recovery Facility (ST1),Androscoggin,Operational,5,Waste,Maine Waste to Energy
+Cenergy - Pulk (PUL),Androscoggin,Operational,5,Solar,BAP Grounded 2 LLC
+MD - EDFR - Phase II - Lewiston (LEWIS),Androscoggin,Operational,5,Solar,"Hayworth Solar Partners, LLC"
+Auburn PV - BD Solar Auburn LLC (AUBPV),Androscoggin,Planned,5,Solar,BD Solar Auburn LLC
+Lewiston Jn PV - BD Solar Lewiston Jn LL (LJNPV),Androscoggin,Planned,5,Solar,BD Solar Lewiston Junction LLC
+Lewiston Junction Road Solar (LWSJN),Androscoggin,Operational,4.9,Solar,"NextGrid Peppertree, LLC"
+Dynamic - Leeds Solar (CSG) (GEN1),Androscoggin,Operational,4.9,Solar,Nautilus Solar Solutions
+Sabattus SB01 (SC),Androscoggin,Operational,4.9,Solar,Nautilus Solar Solutions
+Merrill Road Solar (MRLRD),Androscoggin,Operational,4.6,Solar,"NextGrid Mangrove, LLC"
+Dynamic - Wales Leeds Junction Road (CSG) (GEN1),Androscoggin,Operational,4.5,Solar,"Altus Power America Management, LLC"
+Livermore Falls CSG (28911),Androscoggin,Operational,3.3,Solar,"Livermore Falls CSG, LLC"
+Lisbon Street Solar (LSBST),Androscoggin,Operational,2,Solar,"NextGrid Cliffrose, LLC"
+Deer Rips (DR6),Androscoggin,Operational,1.8,Hydro,Brookfield White Pine Hydro LLC
+Barker Lower (GEN1),Androscoggin,Operational,1.5,Hydro,KEI (Maine) Power Management (III) LLC
+International Paper Livermore Hydro (GEN4),Androscoggin,Operational,1.2,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Livermore Hydro (GEN1),Androscoggin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Livermore Hydro (GEN2),Androscoggin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Livermore Hydro (GEN3),Androscoggin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Livermore Hydro (GEN5),Androscoggin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+Deer Rips (DR7),Androscoggin,Operational,1,Hydro,Brookfield White Pine Hydro LLC
+International Paper Livermore Hydro (GEN8),Androscoggin,Operational,1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Livermore Hydro (GEN9),Androscoggin,Operational,1,Hydro,"Eagle Creek Renewable Energy, LLC"
+Upper Barker (GEN1),Androscoggin,Operational,1,Hydro,KEI (Maine) Power Management (III) LLC
+Mechanic Falls (GEN1),Androscoggin,Operational,1,Hydro,KEI (Maine) Power Management (IV) LLC
+Deer Rips (DR3),Androscoggin,Operational,0.9,Hydro,Brookfield White Pine Hydro LLC
+International Paper Livermore Hydro (GEN7),Androscoggin,Operational,0.9,Hydro,"Eagle Creek Renewable Energy, LLC"
+Deer Rips (DR4),Androscoggin,Operational,0.8,Hydro,Brookfield White Pine Hydro LLC
+Deer Rips (DR5),Androscoggin,Operational,0.8,Hydro,Brookfield White Pine Hydro LLC
+International Paper Livermore Hydro (GEN6),Androscoggin,Operational,0.7,Hydro,"Eagle Creek Renewable Energy, LLC"
+Upper Androscoggin (1),Androscoggin,Operational,0.7,Hydro,Lewiston City of
+Deer Rips (DR1),Androscoggin,Operational,0.6,Hydro,Brookfield White Pine Hydro LLC
+Deer Rips (DR2),Androscoggin,Operational,0.6,Hydro,Brookfield White Pine Hydro LLC
+Upper Androscoggin (2),Androscoggin,Operational,0.5,Hydro,Lewiston City of
+Mechanic Falls (GEN2),Androscoggin,Operational,0.4,Hydro,KEI (Maine) Power Management (IV) LLC
+Upper Androscoggin (3),Androscoggin,Operational,0.4,Hydro,Lewiston City of
+Oakfield Wind Project (1),Aroostook,Operational,148,Wind,Onward Energy
+Mars Hill Wind Farm Project (1),Aroostook,Operational,42,Wind,"Evergreen Wind, LLC"
+Twin Rivers Paper Co LLC (GEN5),Aroostook,Operational,22,Other,Twin Rivers Paper Co LLC
+"AES Daigle Solar, LLC (DGLE)",Aroostook,Operational,5,Solar,AES Clean Energy
+Fort Fairfield (FTFAI),Aroostook,Operational,5,Solar,Standard Solar
+BNRG Masardis (CSG) (SC),Aroostook,Operational,5,Solar,Nautilus Solar Solutions
+Caribou Solar (PV1),Aroostook,Operational,5,Solar,SoCore Energy LLC
+Caribou (CRBOU),Aroostook,Operational,4.1,Solar,"Altus Power America Management, LLC"
+Loring (LRING),Aroostook,Operational,4.1,Solar,"Altus Power America Management, LLC"
+"AES Pelletier Solar, LLC (PELLR)",Aroostook,Operational,4,Solar,AES Clean Energy
+Madawaska Solar (PV1),Aroostook,Operational,4,Solar,SoCore Energy LLC
+Limestone CSG 1 LLC (LMST1),Aroostook,Operational,3.8,Solar,Limestone CSG 1 LLC
+Easton CSG 1 LLC (ESTON),Aroostook,Operational,3.3,Solar,Easton CSG 1 LLC
+Valley Sun Solar (PV1),Aroostook,Operational,3.1,Solar,Valley Sun Solar LLC
+Mechanic Street (CSG) (SC),Aroostook,Operational,3,Solar,Nautilus Solar Solutions
+Missile Street (CSG) (SC),Aroostook,Operational,3,Solar,Nautilus Solar Solutions
+Sheridan Road Solar Farm (SHDAN),Aroostook,Operational,3,Solar,"REA Investments, LLC"
+Limestone CSG 2 LLC (LMST2),Aroostook,Operational,2.9,Solar,Limestone CSG 2 LLC
+ME Fort Fairfield Solar Plant (22085),Aroostook,Operational,2.8,Solar,ME Fort Fairfield LLC
+Mars Hill (577),Aroostook,Operational,2.6,Solar,Greenbacker Renewable Energy Corporation
+ME Novel Lighthouse - Huggard Ave Solar (HUG),Aroostook,Operational,2.5,Solar,"Luminace Sunbeam Development Holdings, LLC"
+French Road Solar (PV1),Aroostook,Operational,2.5,Solar,SoCore Energy LLC
+Skyway Avenue Solar Farm (SKYWY),Aroostook,Operational,2.5,Solar,"REA Investments, LLC"
+ME - Novel (Lighthouse Ph I) Mars Hill (MRSHL),Aroostook,Operational,2.5,Solar,"Mars Hill Road Solar Farm, LLC"
+Houlton Road Solar Farm (CSG) (HOLTN),Aroostook,Operational,2,Solar,"REA Investments, LLC"
+Squa Pan Hydro Station (SP1),Aroostook,Operational,1.5,Hydro,Algonquin Northern Maine
+William F Wyman Hybrid (4),Cumberland,Operational,632.4,Oil,FPL Energy Wyman LLC
+Westbrook Energy Center Power Plant (STG3),Cumberland,Operational,195.5,Gas,Westbrook Energy Center
+Westbrook Energy Center Power Plant (GTG1),Cumberland,Operational,184.2,Gas,Westbrook Energy Center
+Westbrook Energy Center Power Plant (GTG2),Cumberland,Operational,184.2,Gas,Westbrook Energy Center
+Cross Town Energy Storage (CROS1),Cumberland,Operational,175,Battery,Cross Town Energy Storage LLC
+William F Wyman Hybrid (3),Cumberland,Operational,113.6,Oil,FPL Energy Wyman LLC
+William F Wyman Hybrid (1),Cumberland,Operational,50,Oil,FPL Energy Wyman LLC
+William F Wyman Hybrid (2),Cumberland,Operational,50,Oil,FPL Energy Wyman LLC
+S D Warren Westbrook (GEN9),Cumberland,Operational,47.5,Biomass,Relevate Power Management LLC
+Cape Gas Turbine (GT4),Cumberland,Operational,17.5,Oil,FPL Energy Cape LLC
+Cape Gas Turbine (GT5),Cumberland,Operational,17.5,Oil,FPL Energy Cape LLC
+West Baldwin Solar Station (WBSS),Cumberland,Planned,17.1,Solar,West Baldwin Solar Station LLC
+William F Wyman Hybrid (BESS),Cumberland,Operational,16.7,Battery,FPL Energy Wyman LLC
+S D Warren Westbrook (GN10),Cumberland,Operational,15,Biomass,Relevate Power Management LLC
+Regional Waste Systems (TG1),Cumberland,Operational,13.3,Waste,Ecomaine
+Brunswick Hydro (B1),Cumberland,Operational,12.6,Hydro,Brookfield White Pine Hydro LLC
+"South Portland ESS, LLC (1)",Cumberland,Planned,10,Battery,"South Portland ESS, LLC"
+Hiram (2),Cumberland,Operational,8.1,Hydro,Brookfield White Pine Hydro LLC
+Gorham Solar 1 (CSG) (GS1),Cumberland,Operational,5,Solar,CleanCapital Holdings
+Baldwin (ME) (BALD),Cumberland,Operational,5,Solar,"Maine DG Solar Baldwin, LLC"
+Standish (SC),Cumberland,Operational,5,Solar,Nautilus Solar Solutions
+"BWC Beech Ridge Brook, LLC (SCARB)",Cumberland,Operational,5,Solar,Navisun LLC
+North Bridgton (SC),Cumberland,Operational,5,Solar,Nautilus Solar Solutions
+Shaker (SC),Cumberland,Operational,5,Solar,Nautilus Solar Solutions
+"SCS Harpswell 012903 Brunswick, LLC (11822)",Cumberland,Operational,4.9,Solar,"Arevon Energy, Inc."
+Dynamic - Gray Solar (GEN1),Cumberland,Operational,4.9,Solar,"Altus Power America Management, LLC"
+Brunswick Hydro (B2),Cumberland,Operational,3.5,Hydro,Brookfield White Pine Hydro LLC
+Brunswick Hydro (B3),Cumberland,Operational,3.5,Hydro,Brookfield White Pine Hydro LLC
+Hiram (1),Cumberland,Operational,2.4,Hydro,Brookfield White Pine Hydro LLC
+Naples (NAP),Cumberland,Operational,2,Solar,"Naples Casco Solar 1, LLC"
+North Gorham (1),Cumberland,Operational,1.1,Hydro,Brookfield White Pine Hydro LLC
+North Gorham (2),Cumberland,Operational,1.1,Hydro,Brookfield White Pine Hydro LLC
+Roosevelt Trail (SP336),Cumberland,Operational,1,Solar,Madison Energy Investments LLC
+S D Warren Westbrook (GEN4),Cumberland,Operational,0.8,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GEN5),Cumberland,Operational,0.8,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GEN6),Cumberland,Operational,0.8,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GEN1),Cumberland,Operational,0.6,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GEN2),Cumberland,Operational,0.6,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GEN3),Cumberland,Operational,0.6,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GEN7),Cumberland,Operational,0.6,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN11),Cumberland,Operational,0.6,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN16),Cumberland,Operational,0.5,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN17),Cumberland,Operational,0.5,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN12),Cumberland,Operational,0.2,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN13),Cumberland,Operational,0.2,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN14),Cumberland,Operational,0.2,Hydro,Relevate Power Management LLC
+S D Warren Westbrook (GN15),Cumberland,Operational,0.2,Hydro,Relevate Power Management LLC
+Farmington Solar (FNS),Franklin,Operational,77,Solar,"Farmington Solar, LLC"
+Kibby Wind Facility (1),Franklin,Operational,66,Wind,"Helix Maine Wind Development, LLC"
+Kibby Wind Facility (2),Franklin,Operational,66,Wind,"Helix Maine Wind Development, LLC"
+ReEnergy Stratton LLC (UNI1),Franklin,Operational,47,Biomass,ReEnergy Stratton LLC
+Saddleback Ridge Wind Farm (SRW2),Franklin,Operational,25.7,Wind,"CPV Saddleback Ridge Wind, LLC"
+Saddleback Ridge Wind Farm (SRW1),Franklin,Operational,8.5,Wind,"CPV Saddleback Ridge Wind, LLC"
+Otis Hydro (GEN1),Franklin,Operational,5.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+Otis Hydro (GEN2),Franklin,Operational,5.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+ME Novel Lighthouse - Carrabassett (CARRA),Franklin,Operational,5,Solar,"Luminace Sunbeam Development Holdings, LLC"
+Arctaris Saddleback Solar (63233),Franklin,Operational,4.9,Solar,"Arctaris Saddleback Solar, LLC"
+Farmington (FMPV1),Franklin,Operational,4.9,Solar,Madison Energy Investments LLC
+15 Glen Harris RD (20261),Franklin,Operational,3.6,Solar,ME Sandy River LLC
+Pleasant Street (379),Franklin,Operational,3,Solar,Greenbacker Renewable Energy Corporation
+International Paper Riley Hydro (GEN1),Franklin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Riley Hydro (GEN2),Franklin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Riley Hydro (GEN3),Franklin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Riley Hydro (GEN4),Franklin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Riley Hydro (GEN5),Franklin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Riley Hydro (GEN6),Franklin,Operational,1.1,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Jay Hydro (GEN6),Franklin,Operational,0.6,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Jay Hydro (GEN1),Franklin,Operational,0.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Jay Hydro (GEN2),Franklin,Operational,0.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Jay Hydro (GEN3),Franklin,Operational,0.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Jay Hydro (GEN4),Franklin,Operational,0.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+International Paper Jay Hydro (GEN5),Franklin,Operational,0.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+Bucksport Generation LLC (GEN4),Hancock,Operational,186.8,Gas,Bucksport Generation LLC
+"Three Rivers Solar Power, LLC (3RIVS)",Hancock,Planned,100,Solar,"Three Rivers Solar Power, LLC"
+Weaver Wind (WEAVR),Hancock,Operational,72.6,Wind,Greenbacker Renewable Energy Corporation
+Hancock Wind Plant (HANC1),Hancock,Operational,51,Wind,Onward Energy
+Bull Hill Wind Project (1),Hancock,Operational,34.5,Wind,"Evergreen Wind, LLC"
+BD Solar Hancock LLC (HANPV),Hancock,Operational,7,Solar,BD Solar Hancock LLC
+BD Solar Ellsworth LLC (ELLPV),Hancock,Operational,7,Solar,BD Solar Hancock North LLC
+Penobscot Narrows Solar I (22616),Hancock,Operational,5,Solar,Penobscot Narrows Solar I LLC
+REDP - Trenton (TRENT),Hancock,Operational,5,Solar,Standard Solar
+Caterpillar Hill (CATER),Hancock,Operational,4.9,Solar,AES Clean Energy
+BRNG Nicolin (CSG) (SC),Hancock,Operational,3.3,Solar,Nautilus Solar Solutions
+Ellsworth Hydro Station (EL01),Hancock,Operational,2.5,Hydro,"Brookfield Black Bear Hydro, LLC"
+Ellsworth Hydro Station (EL04),Hancock,Operational,2.4,Hydro,"Brookfield Black Bear Hydro, LLC"
+Ellsworth Hydro Station (EL02),Hancock,Operational,2,Hydro,"Brookfield Black Bear Hydro, LLC"
+Ellsworth Hydro Station (EL03),Hancock,Operational,2,Hydro,"Brookfield Black Bear Hydro, LLC"
+Hogs Bay (694),Hancock,Planned,2,Solar,Greenbacker Renewable Energy Corporation
+"Mariaville Road Elsworth Solar, LLC (MARIA)",Hancock,Operational,1.6,Solar,"REA Investments, LLC"
+Hydro Kennebec Project (GEN1),Kennebec,Operational,7.7,Hydro,Hydro Kennebec LLC
+Hydro Kennebec Project (GEN2),Kennebec,Operational,7.7,Hydro,Hydro Kennebec LLC
+Augusta PV - BD Solar Augusta LLC (AUGPV),Kennebec,Operational,7.2,Solar,BD Solar Augusta LLC
+Winslow PV - BD Solar 2 LLC (WINPV),Kennebec,Operational,7,Solar,BD Solar 2 LLC
+Monmouth (MON),Kennebec,Operational,5,Solar,"Maine DG Solar Monmouth, LLC"
+Water Street Solar (WATER),Kennebec,Operational,5,Solar,AES Distributed Energy
+Cenergy - Waterville (CSG) (WAT),Kennebec,Operational,5,Solar,"Luminace Sunbeam Development Holdings, LLC"
+Town House (SC),Kennebec,Operational,5,Solar,Nautilus Solar Solutions
+Oakland (SC),Kennebec,Operational,5,Solar,Nautilus Solar Solutions
+Farmingdale FA01 (SC),Kennebec,Operational,4.9,Solar,Nautilus Solar Solutions
+Broadhead (SP136),Kennebec,Operational,4.9,Solar,Madison Energy Investments LLC
+Webb Road Solar (WEBRD),Kennebec,Operational,4.6,Solar,"NextGrid Mastic, LLC"
+Treasure Lane Solar 1 (TREAS),Kennebec,Operational,4.5,Solar,AES Clean Energy
+BWC Unity Pond LLC (BENTN),Kennebec,Operational,4.5,Solar,Navisun LLC
+"Route 3 China Solar, LLC (RT3)",Kennebec,Operational,4.5,Solar,"REA Investments, LLC"
+"Church Hill Road Augusta Solar, LLC (CHURC)",Kennebec,Operational,3.8,Solar,"REA Investments, LLC"
+Benton Falls Associates (GEN1),Kennebec,Operational,3.5,Hydro,Essex Hydro Associates LLC
+"Market Street Gardiner Solar, LLC (MKTST)",Kennebec,Operational,3.3,Solar,"REA Investments, LLC"
+Messalonskee 2 (Oakland) (1),Kennebec,Operational,2.8,Hydro,Messalonskee Stream Hydro LLC
+Augusta (AUGU),Kennebec,Operational,2.5,Solar,"Maine DG Solar Augusta, LLC"
+Lockwood Hydroelectric Facility (GEN7),Kennebec,Operational,2.4,Hydro,Merimil Ltd Partnership
+Messalonskee 5 (1),Kennebec,Operational,1.8,Hydro,Messalonskee Stream Hydro LLC
+MEVS DOT 109 (EAST),Kennebec,Operational,1.7,Solar,"MEVS DOT, LLC"
+Messalonskee 3 (1),Kennebec,Operational,1.6,Hydro,Messalonskee Stream Hydro LLC
+"Solar Mule, LLC (COLBY)",Kennebec,Operational,1.5,Solar,"Solar Mule, LLC"
+Sidney (SC),Kennebec,Operational,1.5,Solar,Nautilus Solar Solutions
+Gardiner (GEN1),Kennebec,Operational,1,Hydro,KEI (Maine) Power Management (III) LLC
+ME Augusta 13 York Farm Rd Solar (18196),Kennebec,Operational,1,Solar,"SOL ME Augusta 13 York Farm, LLC"
+Lockwood Hydroelectric Facility (GEN1),Kennebec,Operational,0.8,Hydro,Merimil Ltd Partnership
+Lockwood Hydroelectric Facility (GEN2),Kennebec,Operational,0.8,Hydro,Merimil Ltd Partnership
+Lockwood Hydroelectric Facility (GEN3),Kennebec,Operational,0.8,Hydro,Merimil Ltd Partnership
+Lockwood Hydroelectric Facility (GEN4),Kennebec,Operational,0.8,Hydro,Merimil Ltd Partnership
+Lockwood Hydroelectric Facility (GEN5),Kennebec,Operational,0.8,Hydro,Merimil Ltd Partnership
+Lockwood Hydroelectric Facility (GEN6),Kennebec,Operational,0.8,Hydro,Merimil Ltd Partnership
+Benton Falls Associates (GEN2),Kennebec,Operational,0.7,Hydro,Essex Hydro Associates LLC
+MEVS DOT 109 (WEST),Kennebec,Operational,0.5,Solar,"MEVS DOT, LLC"
+Warren Meadow Solar Station (WMSS),Knox,Planned,74.5,Solar,"Warren Meadow Solar Station, LLC"
+Fox Island Wind LLC (1),Knox,Operational,4.5,Wind,Fox Island Wind LLC
+Washington WS01 (SC),Knox,Operational,4,Solar,Nautilus Solar Solutions
+BWC Maces Pond LLC (RCKPT),Knox,Operational,3.5,Solar,Navisun LLC
+Samoset Solar (PGR21),Knox,Operational,2,Solar,"Samoset Solar, LLC"
+Cenergy - Wiscasset (CSG) (WIS),Lincoln,Operational,5,Solar,"Luminace Sunbeam Development Holdings, LLC"
+ME - EDFR - Phase I - Bristol (BRIST),Lincoln,Operational,5,Solar,"Overlook Solar Partners, LLC"
+"North Nobleboro Road, LLC (N NOB)",Lincoln,Operational,2.5,Solar,"REA Investments, LLC"
+Rumford Power LLC (UNT1),Oxford,Operational,179.4,Gas,Rumford Power
+Rumford Cogeneration (GEN1),Oxford,Operational,102.6,Biomass,"ND Paper, Inc."
+Rumford Power LLC (UNT2),Oxford,Operational,95.1,Gas,Rumford Power
+Record Hill Wind (RHW),Oxford,Operational,50.6,Wind,Record Hill Wind LLC
+Canton Mountain Wind (1),Oxford,Operational,22.8,Wind,CPV Canton Mountain Wind LLC
+Spruce Mountain WInd (1),Oxford,Operational,20,Wind,CPV Spruce Mountain Wind LLC
+RoxWind (WIND1),Oxford,Operational,15.3,Wind,RoxWind LLC
+Oxford PV - BD Solar Oxford LLC (OXFPV),Oxford,Operational,9.2,Solar,BD Solar Oxford LLC
+Rumford Falls Hydro Facility (GEN3),Oxford,Operational,8.8,Hydro,Brookfield Power New England
+Rumford Falls Hydro Facility (GEN1),Oxford,Operational,8.1,Hydro,Brookfield Power New England
+Rumford Falls Hydro Facility (GEN2),Oxford,Operational,8.1,Hydro,Brookfield Power New England
+Rumford Falls Hydro Facility (BES1),Oxford,Operational,8,Battery,Brookfield Power New England
+Rumford Falls Hydro Facility (GEN5),Oxford,Operational,7.6,Hydro,Brookfield Power New England
+Rumford Falls Hydro Facility (GEN6),Oxford,Operational,7.6,Hydro,Brookfield Power New England
+Aziscohos Hydroelectric Project (GEN1),Oxford,Operational,6.7,Hydro,Brookfield White Pine Hydro LLC
+Ryans Ranch (SC),Oxford,Operational,5,Solar,Nautilus Solar Solutions
+Rumford ESS (RUM),Oxford,Operational,4.9,Battery,"Agilitas Energy, Inc."
+Fryeburg (SC),Oxford,Operational,4.9,Solar,Nautilus Solar Solutions
+Rumford Falls Hydro Facility (GEN4),Oxford,Operational,4.3,Hydro,Brookfield Power New England
+Mainely Solar (Wyman Hill Solar LLC) (P5815),Oxford,Operational,4,Solar,"Wyman Hill Solar, LLC"
+ISM Solar Shepherd Acres (SHEPH),Oxford,Operational,4,Solar,Navisun LLC
+"Nutting Ridge Solar, LLC (NNTRG)",Oxford,Operational,4,Solar,"REA Investments, LLC"
+"Canton GLC Solar, LLC (CANTN)",Oxford,Operational,3,Solar,"REA Investments, LLC"
+SP-339 Mechanic Falls (SP339),Oxford,Operational,1,Solar,Madison Energy Investments LLC
+Maine Independence Station (GEN3),Penobscot,Operational,194.6,Gas,Casco Bay Energy Co LLC
+Maine Independence Station (GEN1),Penobscot,Operational,177.8,Gas,Casco Bay Energy Co LLC
+Maine Independence Station (GEN2),Penobscot,Operational,177.8,Gas,Casco Bay Energy Co LLC
+Crooked Trail Solar (CTS1),Penobscot,Planned,68,Solar,"VCP Realty, LLC"
+Rollins Wind Project (1),Penobscot,Operational,60,Wind,"Evergreen Wind, LLC"
+Passadumkeag Windpark LLC (Q357),Penobscot,Operational,42.9,Wind,Southern Power Co
+Indeck West Enfield Energy Center (GEN1),Penobscot,Operational,27.5,Biomass,Stored Solar J&WE
+Eagle Point Energy Center (GEN1),Penobscot,Operational,25.3,Waste,"Eagle Point Energy Center, LLC"
+Silver Maple (SIMA1),Penobscot,Operational,20,Wind,WEB Silver Maple Wind LLC
+Red Shield Envir Old Town Facility (TG6),Penobscot,Operational,16,Biomass,"ND Paper, Inc."
+Great Lakes Hydro America - ME (MCH3),Penobscot,Operational,13.2,Hydro,Great Lakes Hydro America LLC
+Red Shield Envir Old Town Facility (TG4),Penobscot,Operational,12.5,Biomass,"ND Paper, Inc."
+Great Lakes Hydro America - ME (MCH1),Penobscot,Operational,12.2,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MCH2),Penobscot,Operational,12.2,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (BES1),Penobscot,Operational,10,Battery,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (BES2),Penobscot,Operational,10,Battery,Great Lakes Hydro America LLC
+Pisgah Mountain Wind (PISGA),Penobscot,Operational,9.1,Wind,"Pisgah Mountain, LLC"
+West Enfield Hydro (GEN1),Penobscot,Operational,6.5,Hydro,"Brookfield Black Bear Hydro, LLC"
+West Enfield Hydro (GEN2),Penobscot,Operational,6.5,Hydro,"Brookfield Black Bear Hydro, LLC"
+Great Lakes Hydro America - ME (MIH2),Penobscot,Operational,5.5,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIH3),Penobscot,Operational,5.5,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIH8),Penobscot,Operational,5.4,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIHI),Penobscot,Operational,5.4,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (DOH5),Penobscot,Operational,5.3,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIH4),Penobscot,Operational,5.1,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIH5),Penobscot,Operational,5.1,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIH6),Penobscot,Operational,5.1,Hydro,Great Lakes Hydro America LLC
+Dynamic Corinth (CSG) (GEN1),Penobscot,Operational,5,Solar,MN8 Energy LLC
+Our Katahdin (696),Penobscot,Operational,5,Solar,Greenbacker Renewable Energy Corporation
+Brewer (CSG) (SC),Penobscot,Operational,5,Solar,Nautilus Solar Solutions
+BWC Jimmie Pond (HAMPD),Penobscot,Operational,5,Solar,Navisun LLC
+Dynamic - Enfield Hammett Road CSG (GEN1),Penobscot,Operational,4.9,Solar,"Altus Power America Management, LLC"
+Dynamic - Glenburn Broadway One (CSG) (GEN1),Penobscot,Operational,4.9,Solar,"Altus Power America Management, LLC"
+SP-231 Clifton (SP231),Penobscot,Operational,4.9,Solar,Madison Energy Investments LLC
+Great Lakes Hydro America - ME (WEH1),Penobscot,Operational,4.8,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (WEH2),Penobscot,Operational,4.8,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (WEH3),Penobscot,Operational,4.8,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (WEH4),Penobscot,Operational,4.8,Hydro,Great Lakes Hydro America LLC
+Broadway Solar (CSG) (BRDWY),Penobscot,Operational,4.6,Solar,"NextGrid Bitterbush, LLC"
+Corkwood Solar (CSG) (CORK),Penobscot,Operational,4.6,Solar,"NextGrid Corkwood, LLC"
+Great Lakes Hydro America - ME (DOH6),Penobscot,Operational,4.1,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (DOH7),Penobscot,Operational,4.1,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (MIH7),Penobscot,Operational,4,Hydro,Great Lakes Hydro America LLC
+Dynamic - Exeter Solar CSG (GEN1),Penobscot,Operational,4,Solar,"Altus Power America Management, LLC"
+Eastern Maine Medical Center (COGE),Penobscot,Operational,3.8,Gas,Eastern Maine Medical Center
+Great Lakes Hydro America - ME (NOH1),Penobscot,Operational,3.2,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (NOH2),Penobscot,Operational,3.2,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (NOH3),Penobscot,Operational,3.2,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (DOH8),Penobscot,Operational,3,Hydro,Great Lakes Hydro America LLC
+ME Novel Lighthouse - Penobscot CSG (PENOB),Penobscot,Operational,3,Solar,"Luminace Sunbeam Development Holdings, LLC"
+ME CDG 004 (ME004),Penobscot,Operational,2,Solar,ME CDG 004 LLC
+ME CDG 005 (ME005),Penobscot,Operational,2,Solar,ME CDG 005 LLC
+Great Lakes Hydro America - ME (DOH4),Penobscot,Operational,1.8,Hydro,Great Lakes Hydro America LLC
+Milford Hydro Station (MF03),Penobscot,Operational,1.6,Hydro,"Brookfield Black Bear Hydro, LLC"
+Milford Hydro Station (MF04),Penobscot,Operational,1.6,Hydro,"Brookfield Black Bear Hydro, LLC"
+Milford Hydro Station (MF05),Penobscot,Operational,1.6,Hydro,"Brookfield Black Bear Hydro, LLC"
+Milford Hydro Station (MF06),Penobscot,Operational,1.6,Hydro,"Brookfield Black Bear Hydro, LLC"
+Great Lakes Hydro America - ME (EMH1),Penobscot,Operational,1.6,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (EMH2),Penobscot,Operational,1.6,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (EMH3),Penobscot,Operational,1.6,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (EMH4),Penobscot,Operational,1.6,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (EMH5),Penobscot,Operational,1.6,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (EMH6),Penobscot,Operational,1.6,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (DOH2),Penobscot,Operational,1.3,Hydro,Great Lakes Hydro America LLC
+Great Lakes Hydro America - ME (DOH3),Penobscot,Operational,1.3,Hydro,Great Lakes Hydro America LLC
+Orono B (ORB-1),Penobscot,Operational,1.3,Hydro,"Brookfield Black Bear Hydro, LLC"
+Orono B (ORB-2),Penobscot,Operational,1.3,Hydro,"Brookfield Black Bear Hydro, LLC"
+Orono B (ORB-3),Penobscot,Operational,1.3,Hydro,"Brookfield Black Bear Hydro, LLC"
+Pumpkin Hill (GEN1),Penobscot,Operational,1,Hydro,KEI (Maine) Power Management (II) LLC
+Medway Hydro (MW01),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Medway Hydro (MW02),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Medway Hydro (MW03),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Medway Hydro (MW04),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Medway Hydro (MW05),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Orono Hydro Station (3),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Orono Hydro Station (4),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater B (SWB-1),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater B (SWB-2),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater B (SWB-3),Penobscot,Operational,0.8,Hydro,"Brookfield Black Bear Hydro, LLC"
+Milford Hydro Station (MF01),Penobscot,Operational,0.7,Hydro,"Brookfield Black Bear Hydro, LLC"
+Milford Hydro Station (MF02),Penobscot,Operational,0.7,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater Hydro Station (SW04),Penobscot,Operational,0.6,Hydro,"Brookfield Black Bear Hydro, LLC"
+Orono Hydro Station (2),Penobscot,Operational,0.6,Hydro,"Brookfield Black Bear Hydro, LLC"
+Orono Hydro Station (1),Penobscot,Operational,0.5,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater Hydro Station (SW01),Penobscot,Operational,0.4,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater Hydro Station (SW02),Penobscot,Operational,0.4,Hydro,"Brookfield Black Bear Hydro, LLC"
+Stillwater Hydro Station (SW03),Penobscot,Operational,0.4,Hydro,"Brookfield Black Bear Hydro, LLC"
+Bingham Wind (1),Piscataquis,Operational,186,Wind,Onward Energy
+Milo PV - BD Solar 1 LLC (MILPV),Piscataquis,Operational,20,Solar,BD Solar 1 LLC
+Milo CSG (29045),Piscataquis,Operational,4.5,Solar,"Milo CSG, LLC"
+Topsham Meadow Solar Station (TMSS),Sagadahoc,Planned,17.2,Solar,Topsham Meadow Solar Station LLC
+Pejepscot Hydroelectric Project (GEN1),Sagadahoc,Operational,12.3,Hydro,Topsham Hydro Partners
+ME-EDFR-Phase I-Woolwich (WLWCH),Sagadahoc,Operational,5,Solar,"Green Mile Solar, LLC"
+"Augusta Road Bowdoin Solar, LLC (AUGUS)",Sagadahoc,Operational,3.8,Solar,"REA Investments, LLC"
+Richmond Hill (575),Sagadahoc,Operational,1.8,Solar,Greenbacker Renewable Energy Corporation
+Pejepscot Hydroelectric Project (GEN4),Sagadahoc,Operational,0.5,Hydro,Topsham Hydro Partners
+Pejepscot Hydroelectric Project (GEN2),Sagadahoc,Operational,0.4,Hydro,Topsham Hydro Partners
+Pejepscot Hydroelectric Project (GEN3),Sagadahoc,Operational,0.3,Hydro,Topsham Hydro Partners
+Somerset Plant (GEN2),Somerset,Operational,61.2,Biomass,Sappi Fine Paper North America-Somerset
+Moscow (703),Somerset,Operational,58.8,Wind,Greenbacker Renewable Energy Corporation
+Somerset Plant (GEN1),Somerset,Operational,45.9,Biomass,Sappi Fine Paper North America-Somerset
+Harris Hydro (HA2),Somerset,Operational,30,Hydro,Brookfield White Pine Hydro LLC
+Harris Hydro (HA3),Somerset,Operational,30,Hydro,Brookfield White Pine Hydro LLC
+Wyman Hydro (WY1),Somerset,Operational,24,Hydro,Brookfield White Pine Hydro LLC
+Wyman Hydro (WY2),Somerset,Operational,24,Hydro,Brookfield White Pine Hydro LLC
+Wyman Hydro (WY3),Somerset,Operational,24,Hydro,Brookfield White Pine Hydro LLC
+Harris Hydro (HA1),Somerset,Operational,15,Hydro,Brookfield White Pine Hydro LLC
+Pittsfield Solar LLC (PSLLC),Somerset,Operational,9.9,Solar,Pittsfiled Solar LLC
+Athens Energy (1),Somerset,Operational,8.5,Biomass,"Athens Energy, LLC"
+Williams Hydro (WI1),Somerset,Operational,7,Hydro,Brookfield White Pine Hydro LLC
+Williams Hydro (WI2),Somerset,Operational,6,Hydro,Brookfield White Pine Hydro LLC
+Fairfield PV - BD Solar Fairfield LLC (FAIPV),Somerset,Operational,5,Solar,BD Solar Fairfield LLC
+Palmyra PV - BD Solar Palmyra LLC (PALPV),Somerset,Operational,5,Solar,BD Solar Palmyra LLC
+River Road (RIV),Somerset,Operational,5,Solar,"Norridgewock River Road Solar, LLC"
+Dynamic Madison (CSG) (GEN1),Somerset,Operational,5,Solar,MN8 Energy LLC
+Athens AT01 (SC),Somerset,Operational,5,Solar,Nautilus Solar Solutions
+ME-EDFR-Phase I-Embden (EMBDN),Somerset,Operational,5,Solar,"Tower Solar Partners, LLC"
+Bates College Skowhegan (BCSKO),Somerset,Operational,5,Solar,"Westbound Solar 3, LLC"
+MEVS Clark LLC (74486),Somerset,Operational,5,Solar,MEVS Clark LLC
+Madison ESS (MESS),Somerset,Operational,4.9,Battery,"Agilitas Energy, Inc."
+Harmony Solar (ME) (HARM),Somerset,Operational,4.9,Solar,"Maine DG Solar Harmony, LLC"
+Pittsfield Solar (N. Main St) (74474),Somerset,Operational,4.9,Solar,"Maine DG Solar Pittsfield, LLC"
+Dynamic - Norridgewock Martin Stream (CSG) (GEN1),Somerset,Operational,4.9,Solar,Nautilus Solar Solutions
+Barefoot Solar (BARE1),Somerset,Operational,4.3,Solar,Madison Energy Investments LLC
+IOS - MEW Phase 1 (MEW1),Somerset,Operational,4.1,Solar,Madison Energy Holdings LLC
+Hartland Solar (HART1),Somerset,Operational,4,Solar,Madison Energy Holdings LLC
+Dairy Farm (378),Somerset,Operational,4,Solar,Greenbacker Renewable Energy Corporation
+Brassua Hydroelectric Project (1),Somerset,Operational,3.6,Hydro,Brassua Hydroelectric LP
+ME Novel Lighthouse - Front St. Solar CS (FRONT),Somerset,Operational,3.2,Solar,"Luminace Sunbeam Development Holdings, LLC"
+Anson Abenaki Hydros (AB1),Somerset,Operational,3,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AB3),Somerset,Operational,3,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AB4),Somerset,Operational,3,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AB6),Somerset,Operational,3,Hydro,"Eagle Creek Renewable Energy, LLC"
+Weston Hydro (WE1),Somerset,Operational,3,Hydro,Brookfield White Pine Hydro LLC
+Weston Hydro (WE2),Somerset,Operational,3,Hydro,Brookfield White Pine Hydro LLC
+Weston Hydro (WE3),Somerset,Operational,3,Hydro,Brookfield White Pine Hydro LLC
+Weston Hydro (WE4),Somerset,Operational,3,Hydro,Brookfield White Pine Hydro LLC
+Athens Ridge (574),Somerset,Operational,2.9,Solar,Greenbacker Renewable Energy Corporation
+Anson Abenaki Hydros (AB2),Somerset,Operational,2.7,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AB5),Somerset,Operational,2.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AB7),Somerset,Operational,2.5,Hydro,"Eagle Creek Renewable Energy, LLC"
+Shawmut (SH7),Somerset,Operational,2.2,Hydro,Brookfield White Pine Hydro LLC
+Shawmut (SH8),Somerset,Operational,2.2,Hydro,Brookfield White Pine Hydro LLC
+BNRG Norridgewock (CSG) (SC),Somerset,Operational,2,Solar,Nautilus Solar Solutions
+BNRG North Anson (CSG) (SC),Somerset,Operational,2,Solar,Nautilus Solar Solutions
+Anson Abenaki Hydros (AN1),Somerset,Operational,1.8,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AN2),Somerset,Operational,1.8,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AN3),Somerset,Operational,1.8,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AN4),Somerset,Operational,1.8,Hydro,"Eagle Creek Renewable Energy, LLC"
+Anson Abenaki Hydros (AN5),Somerset,Operational,1.8,Hydro,"Eagle Creek Renewable Energy, LLC"
+Waste Management Crossroads LFGTE (GEN1),Somerset,Operational,1.6,"Landfill, Gas",WM Renewable Energy LLC
+Waste Management Crossroads LFGTE (GEN2),Somerset,Operational,1.6,"Landfill, Gas",WM Renewable Energy LLC
+Madison BTM (MBTM),Somerset,Operational,1.5,Battery,"Agilitas Energy, Inc."
+Harris Hydro (HA4),Somerset,Operational,1.4,Hydro,Brookfield White Pine Hydro LLC
+Cenergy - Richards (CSG) (RIC),Somerset,Operational,1,Solar,"Luminace Sunbeam Development Holdings, LLC"
+Cenergy - Kiger (KIG),Somerset,Operational,1,Solar,"Luminace Sunbeam Development Holdings, LLC"
+Shawmut (SH6),Somerset,Operational,0.9,Hydro,Brookfield White Pine Hydro LLC
+Shawmut (SH1),Somerset,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+Shawmut (SH2),Somerset,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+Shawmut (SH3),Somerset,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+Shawmut (SH4),Somerset,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+Shawmut (SH5),Somerset,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+Pittsfield Hydro (GEN1),Somerset,Operational,0.4,Hydro,KEI (Maine) Power Management (II) LLC
+Pittsfield Hydro (GEN3),Somerset,Operational,0.4,Hydro,KEI (Maine) Power Management (II) LLC
+Anson Abenaki Hydros (AB8),Somerset,Operational,0.3,Hydro,"Eagle Creek Renewable Energy, LLC"
+Pittsfield Hydro (GEN2),Somerset,Operational,0.3,Hydro,KEI (Maine) Power Management (II) LLC
+Three Corners Solar (18099),Waldo,Operational,110,Solar,"Three Corners Solar, LLC"
+Georges River Energy (WEG),Waldo,Operational,10,Biomass,Robbins Lumber Inc
+Unity Solar (UNITY),Waldo,Operational,5,Solar,Madison Energy Holdings LLC
+ME - EDF - Phase II - Belfast (BLFST),Waldo,Operational,5,Solar,"Shining Solar Partners, LLC"
+"Perkins Road Belfast Solar, LLC (PERK)",Waldo,Operational,4.8,Solar,"REA Investments, LLC"
+Beaver Ridge Wind (BR1),Waldo,Operational,4.5,Wind,CPV Beaver Ridge Wind LLC
+"Searsmont Road Lincolnville Solar, LLC (SEARS)",Waldo,Operational,4,Solar,"REA Investments, LLC"
+Robbins Lumber (CAT),WALDO,Operational,2,Oil,Robbins Lumber Inc
+Prospect Solar One (PSLR1),Waldo,Planned,1.3,Solar,NJR Clean Energy Ventures Corporation
+Robbins Lumber (WEST),WALDO,Operational,1.2,Biomass,Robbins Lumber Inc
+Emery Shute Solar One (VCP14),Waldo,Planned,1,Solar,"VCP Realty, LLC"
+Downeast Wind (DOWNW),Washington,Operational,126,Wind,"Downeast Wind, LLC"
+Stetson Wind I (1),Washington,Operational,57,Wind,"Evergreen Wind, LLC"
+Indeck Jonesboro Energy Center (GEN1),Washington,Operational,27.5,Biomass,Stored Solar J&WE
+"Woodland Pulp, LLC (TG11)",Washington,Operational,26.8,Biomass,Woodland Pulp LLC
+Stetson Wind II (1),Washington,Operational,25.5,Wind,"Evergreen Wind, LLC"
+"Woodland Pulp, LLC (TG10)",Washington,Operational,23,Biomass,Woodland Pulp LLC
+Dublin Street LLC (DBLNS),Washington,Operational,4.9,Solar,Dublin Street LLC
+Wymans Deblois (RWDEB),Washington,Operational,4.9,Solar,"REC RWD, LLC"
+"Woodland Pulp, LLC (HG3)",Washington,Operational,3.3,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG1)",Washington,Operational,3,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG2)",Washington,Operational,3,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG8)",Washington,Operational,2,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG9)",Washington,Operational,2,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG7)",Washington,Operational,1.6,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG10)",Washington,Operational,1.2,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG4)",Washington,Operational,0.8,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG5)",Washington,Operational,0.8,Hydro,Woodland Pulp LLC
+"Woodland Pulp, LLC (HG6)",Washington,Operational,0.8,Hydro,Woodland Pulp LLC
+Freedom Pine Solar (FPS),York,Planned,250,Solar,"Freedom Pine Solar, LLC"
+Sanford Solar (SAS),York,Operational,49.4,Solar,"Sanford Airport Solar, LLC"
+Mousam River Solar (MRS1),York,Operational,20,Solar,Walden Renewables Development LLC
+Emery Meadow Solar Station (EMSS),York,Planned,16.4,Solar,"Emery Meadow Solar Station, LLC"
+Skelton (1),York,Operational,8.4,Hydro,Brookfield White Pine Hydro LLC
+Skelton (2),York,Operational,8.4,Hydro,Brookfield White Pine Hydro LLC
+Bonny Eagle (BES1),York,Operational,8,Battery,Brookfield White Pine Hydro LLC
+Cataract Hydro (1),York,Operational,6.6,Hydro,Brookfield White Pine Hydro LLC
+Quarry (SC),York,Operational,5,Solar,Nautilus Solar Solutions
+Sanford CGA (SC),York,Operational,5,Solar,Nautilus Solar Solutions
+"Sanford ESS, LLC (1)",York,Planned,5,Battery,"Sanford ESS, LLC"
+Sanford -NY (SC),York,Operational,4.9,Solar,Nautilus Solar Solutions
+Waterboro (WBMPV),York,Operational,4.9,Solar,Madison Energy Investments LLC
+Wells (ME) (SC),York,Operational,4.8,Solar,Nautilus Solar Solutions
+West Buxton (WB6),York,Operational,4,Hydro,Brookfield White Pine Hydro LLC
+Lebanon CSG LLC (LEBAN),York,Operational,3.8,Solar,Dimension Energy LLC
+Acton (ACT),York,Operational,3.5,Solar,"Acton H Road Solar 1, LLC"
+549 Doles Ridge Rd Solar LLC (549DR),York,Planned,2.4,Solar,549 Doles Ridge Rd Solar LLC
+Bonny Eagle (1),York,Operational,1.2,Hydro,Brookfield White Pine Hydro LLC
+Bonny Eagle (2),York,Operational,1.2,Hydro,Brookfield White Pine Hydro LLC
+Bonny Eagle (3),York,Operational,1.2,Hydro,Brookfield White Pine Hydro LLC
+Bonny Eagle (4),York,Operational,1.2,Hydro,Brookfield White Pine Hydro LLC
+Bonny Eagle (5),York,Operational,1.2,Hydro,Brookfield White Pine Hydro LLC
+Bonny Eagle (6),York,Operational,1.2,Hydro,Brookfield White Pine Hydro LLC
+West Buxton (WB3),York,Operational,1.1,Hydro,Brookfield White Pine Hydro LLC
+West Buxton (WB4),York,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+West Buxton (WB5),York,Operational,0.7,Hydro,Brookfield White Pine Hydro LLC
+West Buxton (WB1),York,Operational,0.6,Hydro,Brookfield White Pine Hydro LLC
+West Buxton (WB2),York,Operational,0.6,Hydro,Brookfield White Pine Hydro LLC
+Salmon Falls (GEN1),York,Operational,0.4,Hydro,Green Mountain Power Corp
+Salmon Falls (GEN2),York,Operational,0.4,Hydro,Green Mountain Power Corp
+Salmon Falls (GEN3),York,Operational,0.4,Hydro,Green Mountain Power Corp
