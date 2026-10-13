@@ -34,6 +34,6 @@ Made for SIE 557 University of Maine, Spring 2026
    python "Maine Power Stations Database.py"
    ```
 
-   <small>*Google Gemini and Antrhopic's Claude were used for spell checking, basic debugging, function lookup, and providing examples for me to learn during the process.*</small>
-   <br>
-   <small>*Google Gemini used in creation of README.*</small>
+<small>*Google Gemini and Anthropic's Claude were used for spell checking, basic debugging, function lookup, and providing examples for me to learn during the process.*</small>
+
+<small>*Google Gemini used in creation of README.*</small>
